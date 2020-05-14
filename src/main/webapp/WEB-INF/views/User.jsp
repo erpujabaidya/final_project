@@ -14,7 +14,7 @@
 
 
 <body>
-<h1>Welcome to DevOps Bhanu!!</h1>
+<h1>Welcome to DevOps Puja!!</h1>
 	
 
 </body>
